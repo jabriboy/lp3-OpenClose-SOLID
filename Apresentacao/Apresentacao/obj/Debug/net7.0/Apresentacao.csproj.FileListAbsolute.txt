@@ -13,3 +13,17 @@ C:\Users\lucca\source\repos\Apresentacao\Apresentacao\obj\Debug\net7.0\refint\Ap
 C:\Users\lucca\source\repos\Apresentacao\Apresentacao\obj\Debug\net7.0\Apresentacao.pdb
 C:\Users\lucca\source\repos\Apresentacao\Apresentacao\obj\Debug\net7.0\Apresentacao.genruntimeconfig.cache
 C:\Users\lucca\source\repos\Apresentacao\Apresentacao\obj\Debug\net7.0\ref\Apresentacao.dll
+C:\Users\jabri\source\repos\sOlid\Apresentacao\lp3-OpenClose-SOLID\Apresentacao\Apresentacao\bin\Debug\net7.0\Apresentacao.exe
+C:\Users\jabri\source\repos\sOlid\Apresentacao\lp3-OpenClose-SOLID\Apresentacao\Apresentacao\bin\Debug\net7.0\Apresentacao.deps.json
+C:\Users\jabri\source\repos\sOlid\Apresentacao\lp3-OpenClose-SOLID\Apresentacao\Apresentacao\bin\Debug\net7.0\Apresentacao.runtimeconfig.json
+C:\Users\jabri\source\repos\sOlid\Apresentacao\lp3-OpenClose-SOLID\Apresentacao\Apresentacao\bin\Debug\net7.0\Apresentacao.dll
+C:\Users\jabri\source\repos\sOlid\Apresentacao\lp3-OpenClose-SOLID\Apresentacao\Apresentacao\bin\Debug\net7.0\Apresentacao.pdb
+C:\Users\jabri\source\repos\sOlid\Apresentacao\lp3-OpenClose-SOLID\Apresentacao\Apresentacao\obj\Debug\net7.0\Apresentacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jabri\source\repos\sOlid\Apresentacao\lp3-OpenClose-SOLID\Apresentacao\Apresentacao\obj\Debug\net7.0\Apresentacao.AssemblyInfoInputs.cache
+C:\Users\jabri\source\repos\sOlid\Apresentacao\lp3-OpenClose-SOLID\Apresentacao\Apresentacao\obj\Debug\net7.0\Apresentacao.AssemblyInfo.cs
+C:\Users\jabri\source\repos\sOlid\Apresentacao\lp3-OpenClose-SOLID\Apresentacao\Apresentacao\obj\Debug\net7.0\Apresentacao.csproj.CoreCompileInputs.cache
+C:\Users\jabri\source\repos\sOlid\Apresentacao\lp3-OpenClose-SOLID\Apresentacao\Apresentacao\obj\Debug\net7.0\Apresentacao.dll
+C:\Users\jabri\source\repos\sOlid\Apresentacao\lp3-OpenClose-SOLID\Apresentacao\Apresentacao\obj\Debug\net7.0\refint\Apresentacao.dll
+C:\Users\jabri\source\repos\sOlid\Apresentacao\lp3-OpenClose-SOLID\Apresentacao\Apresentacao\obj\Debug\net7.0\Apresentacao.pdb
+C:\Users\jabri\source\repos\sOlid\Apresentacao\lp3-OpenClose-SOLID\Apresentacao\Apresentacao\obj\Debug\net7.0\Apresentacao.genruntimeconfig.cache
+C:\Users\jabri\source\repos\sOlid\Apresentacao\lp3-OpenClose-SOLID\Apresentacao\Apresentacao\obj\Debug\net7.0\ref\Apresentacao.dll

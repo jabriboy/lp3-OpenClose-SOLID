@@ -8,6 +8,6 @@ namespace Apresentacao
 {
     internal interface Taxa
     {
-        double calcularTaxa();
+        double CalcularTaxa();
     }
 }

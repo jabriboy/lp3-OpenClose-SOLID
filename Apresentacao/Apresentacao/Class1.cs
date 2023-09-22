@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Apresentacao
 {
-    public abstract class Produto
+    public abstract class Produto : Taxa
     {
         public string nome { get; set; }
         public double valor { get; set; }
